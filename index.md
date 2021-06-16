@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "coming into FOCUS"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Here's where I'll post about my summer internship
